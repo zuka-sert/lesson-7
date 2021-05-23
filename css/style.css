@@ -1,0 +1,154 @@
+.header-box {
+	background-image: url('../img/pic1.svg');
+	height: 900px;
+	width: 100%;
+	background-size: cover;
+	background-repeat: no-repeat;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+
+	}
+
+.txt {
+	font-size: 100px;
+	color: #FFFFFF;
+	display: ;
+	align-items: center;
+
+}
+.cover {
+	margin-left: 10px;
+	margin-top: 10px;
+}
+
+
+.logo {
+	font-size: 28px;
+	color: #D9F0FF;
+	display: inline-block;
+	
+	margin-left: 67px;
+}
+.work {
+	font-size: 12px;
+	color: #D9F0FF;
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 30px;
+	}
+.work1 {
+   margin-left: 802px;
+   
+   padding-left: 70px;
+   padding-right: 70px;
+   vertical-align: top;
+}
+.big-box {
+	display: flex;
+	width: 100%;
+}
+.left-box {
+	width: 800px;
+	height: 604px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.left-txt1 {
+	width: 268px;
+	height: 186px;
+	font-size: 50px;
+	color: #000000;
+	text-align: center;
+}
+.left-txt2 {
+	width: 457px;
+	height: 128px;
+	font-size: 16px;
+	color: #707070;
+	text-align: center;
+}
+.left-txt3 {
+	font-size: 14px;
+	color: #FFFFFF;
+	align-items: center;
+
+}
+.blue {
+	width: 307px;
+	height: 72px;
+	background-color: #325DFF;
+	border-radius: 50px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+}
+.rigt-box {
+	background-image: url('../img/pic2.svg');
+	background-size: cover;
+	width: 800px;
+	height: 604px;
+	
+}
+
+.title {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+
+}
+.txt1 {
+	font-size: 35px;
+	width: 570px;
+	height: 50px;
+	align-items: center;
+	text-align: center;
+}
+.txt2 {
+	font-size: 16px;
+	width: 771px;
+	height: 71px;
+	align-items: center;
+	text-align: center;
+}
+.container	{
+	display: flex;
+	flex-wrap: wrap;
+
+}
+.box1 {
+	width: 371px;
+	height: 374px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+}
+.icon-father {
+	width: 88px;
+	height: 88px;
+	justify-content: center;
+	align-items: center;
+	background-color: #325DFF;
+	display: flex;
+	border-radius: 50px;
+	align-items: center;
+}
+.box-txt1 {
+	width: 233px;
+	height: 33px;
+	font-size: 18px;
+	text-align: center;
+}
+.box-txt2 {
+    width: 251px;
+    height: 106px;
+    font-size: 16px;
+    text-align: center;
+}
